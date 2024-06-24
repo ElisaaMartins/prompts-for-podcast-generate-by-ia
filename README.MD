@@ -64,7 +64,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <img 
@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/120751063?s=400&u=954775bf352a286d5b9f9326c1b30603ec07a167&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsElisa Martins<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/ElisaaMartins">
     GitHub</a>&nbsp;|&nbsp;
